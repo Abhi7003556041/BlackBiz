@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "391861616364",
+    "project_id": "blackbiz-c17df",
+    "storage_bucket": "blackbiz-c17df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391861616364:android:e1d88ade2acbf9735a6fc9",
+        "android_client_info": {
+          "package_name": "com.blackbizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391861616364-brkq3eagc27vlqdkjloov8tcj204fqrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackbizapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "391861616364-pn070u88p249or1rsucgec0e1j0dqgv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackbizapp",
+            "certificate_hash": "01627d06e20120d2ade4e266b61d126038c3626b"
+          }
+        },
+        {
+          "client_id": "391861616364-qsqhm09230v8b6n8gpn4gvs2roek2527.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWZxprxPwLQ0aj28NO2hXt27KMHDKL3f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391861616364-qsqhm09230v8b6n8gpn4gvs2roek2527.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
